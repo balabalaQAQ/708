@@ -1,0 +1,3 @@
+GitHub Token(key): 0cc84699f4d489a67c5bcd2b881a3e52fdf1decb
+GitHub Gist (Id): 4944b3750aac0dfc1265cfb78471f57b
+GitHub Gist Type: Secret
